@@ -14,7 +14,7 @@ These scripts are created by LegendaryNodes.
 1. Open your terminal and use `nano` to create or edit a new file with the desired package name:
 
 ```bash
-nano YourPackageName.txt
+nano YourPackageName.sh
 ```
 
 2. Paste the content of the package file into the text editor.
